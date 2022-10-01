@@ -5,7 +5,7 @@ Python  Functions
 
 
 """
-Question 2: 
+Question 1: 
 
 Finish the function valid_brackets() to solve the following question.
 
